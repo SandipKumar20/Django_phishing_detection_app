@@ -1,0 +1,1 @@
+# A django app which detects whether a given website is a phishing website or not given it's characteristics. The prediction is done using an mlp classifier.
